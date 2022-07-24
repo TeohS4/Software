@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize">
+
+            <ImageView
+                android:id="@+id/back_form2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:padding="15dp"
+                android:src="@drawable/ic_baseline_arrow_back_24" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/back_form2"
+                android:fontFamily="sans-serif-medium"
+                android:padding="10dp"
+                android:text="Tips to Quit Smoking"
+                android:textAllCaps="true"
+                android:textSize="30sp" />
+        </RelativeLayout>
+
+        <androidx.cardview.widget.CardView
+            android:onClick="expand_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            app:cardCornerRadius="20dp"
+            app:cardElevation="10dp"
+            app:contentPadding="20dp">
+
+            <LinearLayout
+                android:id="@+id/layout_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:animateLayoutChanges="true">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/tips_1"
+                    android:textSize="32sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/teal_200"/>
+
+                <TextView
+                    android:id="@+id/details_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:visibility="gone"
+                    android:text="@string/tips_1_details"
+                    android:textSize="18sp"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:onClick="expand_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            app:cardCornerRadius="20dp"
+            app:cardElevation="10dp"
+            app:contentPadding="20dp">
+
+            <LinearLayout
+                android:id="@+id/layout_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:animateLayoutChanges="true">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/tips_2"
+                    android:textSize="32sp"
+                    android:textStyle="bold"
+                    android:textColor="#fcad03"/>
+
+                <TextView
+                    android:id="@+id/details_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:visibility="gone"
+                    android:text="@string/tips_2_details"
+                    android:textSize="18sp"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:onClick="expand_3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            app:cardCornerRadius="20dp"
+            app:cardElevation="10dp"
+            app:contentPadding="20dp">
+
+            <LinearLayout
+                android:id="@+id/layout_3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:animateLayoutChanges="true">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/tips_3"
+                    android:textSize="32sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/purple_200"/>
+
+                <TextView
+                    android:id="@+id/details_3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:visibility="gone"
+                    android:text="@string/tips_3_details"
+                    android:textSize="18sp"/>
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+
+</ScrollView>
