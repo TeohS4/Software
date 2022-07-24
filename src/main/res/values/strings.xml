@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StopSmoking</string>
+    <string name="facebook_app_id">359166669477068</string>
+    <string name="fb_login_protocol_scheme">fb583fb2ad3f9fcccbdea0e721540fd8</string>
+    <string name="facebook_client_token">619373cff01ff8098eadc345d7366ee5</string>
+
+
+    <!-- Add_Achievement (Admin Page) -->
+</resources>
