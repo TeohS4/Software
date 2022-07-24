@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">StopSmoking</string>
+    <string name="facebook_app_id">359166669477068</string>
+    <string name="fb_login_protocol_scheme">fb583fb2ad3f9fcccbdea0e721540fd8</string>
+    <string name="facebook_client_token">619373cff01ff8098eadc345d7366ee5</string>
+    <string name="tips_1">Adjust your medicine.</string>
+    <string name="tips_2">Make your environment work for you.</string>
+    <string name="tips_3">Distract yourself.</string>
+    <string name="tips_1_details">If your urges are hard to resist and you are using NRT, you may be able to use more. For instance, if you are using a lower-dose patch, you can increase to a higher dose. Or you can add the nicotine mini-lozenge or gum. Learn more about combining medicines. If you are using varenicline or bupropion, you can talk to your doctor or other healthcare professional about your urges, as well as using these other tips.</string>
+    <string name="tips_2_details">You can change some things about your home,car,and work that will make it easier to quit and stay quit.</string>
+    <string name="tips_3_details">In every moment, there is much more happening around you. Your ears are picking up sounds. Your eyes are taking in sights.</string>
+
+
+    <!-- Add_Achievement (Admin Page) -->
+    <string name="add_goal_header">Add Goal Header</string>
+    <string name="add_goal_name">Add Goal Name</string>
+    <string name="add_goal_period">Add Goal Period</string>
+    <string name="add_goal_daily">Add Goal Daily</string>
+    <string name="add_goal_weekly">Add Goal Weekly</string>
+    <string name="add_goal_monthly">Add Goal Monthly</string>
+    <string name="add_goal_set">Add Goal Set</string>
+    <string name="add_goal_more">Add More Goal</string>
+    <string name="add_goal_less">Add Less Goal</string>
+    <string name="add_goal_days">Add Goal Days</string>
+    <string name="add_goal_sunday">Sunday</string>
+    <string name="add_goal_monday">Monday</string>
+    <string name="add_goal_tuesday">Tuesday</string>
+    <string name="add_goal_wednesday">Wednesday</string>
+    <string name="add_goal_thursday">Thursday</string>
+    <string name="add_goal_friday">Friday</string>
+    <string name="add_goal_saturday">Saturday</string>
+    <string name="add_goal_submit">Submit</string>
+</resources>

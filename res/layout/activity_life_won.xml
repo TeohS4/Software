@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:id="@+id/constraintLayout">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/Lifewon_back"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:padding="14dp"
+            android:src="@drawable/ic_back_lifewon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Life Won"
+            android:layout_centerInParent ="true"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:textSize="27sp"/>
+    </RelativeLayout>
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="60dp"
+            android:layout_marginRight="10dp"
+            app:cardCornerRadius="15dp">
+
+            <RelativeLayout
+                android:layout_width="390dp"
+                android:layout_height="match_parent"
+                android:background="#04C5DD"
+                android:padding="10dp">
+
+                <ImageView
+                    android:id="@+id/text1"
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:src="@drawable/ic_blood"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/des1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_toRightOf="@+id/text1"
+                    android:textStyle="bold"
+                    android:text="20 minutes after quitting :" />
+
+                <TextView
+                    android:id="@+id/tel1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_below="@+id/des1"
+                    android:autoLink="all"
+                    android:clickable="true"
+                    android:layout_toRightOf="@+id/text1"
+                    android:text="Your heart rate and blood pressure drop."
+                    android:textColorLink="@color/white" />
+
+
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="10dp"
+            app:cardCornerRadius="15dp">
+
+            <RelativeLayout
+                android:layout_width="390dp"
+                android:layout_height="match_parent"
+                android:background="#04C5DD"
+                android:padding="10dp">
+
+                <ImageView
+                    android:id="@+id/image2"
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:src="@drawable/ic_blood"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/des2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/image2"
+                    android:layout_marginLeft="10dp"
+                    android:textStyle="bold"
+                    android:text="A few days after quitting :" />
+
+                <TextView
+                    android:id="@+id/tel2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/des2"
+                    android:layout_toRightOf="@+id/image2"
+                    android:layout_marginLeft="10dp"
+                    android:autoLink="all"
+                    android:clickable="true"
+                    android:text="The carbon monoxide level in your blood drops to normal."
+                    android:textColorLink="@color/white" />
+
+
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="10dp"
+            app:cardCornerRadius="15dp">
+
+            <RelativeLayout
+                android:layout_width="390dp"
+                android:layout_height="match_parent"
+                android:background="#04C5DD"
+                android:padding="10dp">
+
+                <ImageView
+                    android:id="@+id/text3"
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:src="@drawable/ic_lung"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/des3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/text3"
+                    android:layout_marginLeft="10dp"
+                    android:textStyle="bold"
+                    android:text="2 weeks to 3 months after quitting :" />
+
+                <TextView
+                    android:id="@+id/tel3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/des3"
+                    android:layout_toRightOf="@+id/text3"
+                    android:autoLink="all"
+                    android:layout_marginLeft="10dp"
+                    android:clickable="true"
+                    android:text="Your circulation improves and your lung function increases."
+                    android:textColorLink="@color/white" />
+
+
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="10dp"
+            app:cardCornerRadius="15dp">
+
+            <RelativeLayout
+                android:layout_width="390dp"
+                android:layout_height="match_parent"
+                android:background="#04C5DD"
+                android:padding="10dp">
+
+                <ImageView
+                    android:id="@+id/text4"
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:src="@drawable/ic_lung"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/des4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_toRightOf="@+id/text4"
+                    android:textStyle="bold"
+                    android:text="1 to 12 months after quitting :" />
+
+                <TextView
+                    android:id="@+id/tel4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/des4"
+                    android:autoLink="all"
+                    android:clickable="true"
+                    android:layout_toRightOf="@+id/text4"
+                    android:layout_marginLeft="10dp"
+                    android:text="Coughing and shortness of breath decrease. Ability to handle to handle mucus, clean the lungs, and reduce the risk of infection."
+                    android:textColorLink="@color/white" />
+
+
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="10dp"
+            app:cardCornerRadius="15dp">
+
+            <RelativeLayout
+                android:layout_width="390dp"
+                android:layout_height="match_parent"
+                android:background="#04C5DD"
+                android:padding="10dp">
+
+                <ImageView
+                    android:id="@+id/text5"
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:src="@drawable/ic_death"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/des5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/text5"
+                    android:layout_marginLeft="10dp"
+                    android:text="5 to 10 years after quitting :"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:id="@+id/tel5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/des5"
+                    android:autoLink="all"
+                    android:layout_toRightOf="@+id/text5"
+                    android:layout_marginLeft="10dp"
+                    android:clickable="true"
+                    android:text="Your risk of cancers of the mouth, throat, and voice box (larynx) is cut in half. Your stroke risk decreases."
+                    android:textColorLink="@color/white" />
+
+
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="10dp"
+            app:cardCornerRadius="15dp">
+
+            <RelativeLayout
+                android:layout_width="390dp"
+                android:layout_height="match_parent"
+                android:background="#04C5DD"
+                android:padding="10dp">
+
+                <ImageView
+                    android:id="@+id/text6"
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:src="@drawable/ic_no_smoking"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/des6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/text6"
+                    android:layout_marginLeft="10dp"
+                    android:textStyle="bold"
+                    android:text="15 years after quitting :" />
+
+                <TextView
+                    android:id="@+id/tel6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/des6"
+                    android:layout_toRightOf="@+id/text6"
+                    android:layout_marginLeft="10dp"
+                    android:autoLink="all"
+                    android:clickable="true"
+                    android:text="Your risk of lung cancer is about half that of a person who is still smoking. Risk of coronary heart disease is close to that of a non-smoker."
+                    android:textColorLink="@color/white" />
+
+
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+
+</RelativeLayout>
