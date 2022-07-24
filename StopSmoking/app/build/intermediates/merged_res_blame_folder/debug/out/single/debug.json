@@ -1,0 +1,458 @@
+[
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_achievement.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_achievement.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-v24_background.jpg.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable-v24\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_activity_edit_profile.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-mdpi_ic_death.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-pngs-31:\\drawable-mdpi\\ic_death.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_fb.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\fb.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-v24_round_back_night_mode.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable-v24\\round_back_night_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-v24_language.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable-v24\\language.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\anim_middle_animation.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\anim\\middle_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_baseline_tips_and_updates.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_baseline_tips_and_updates.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-v24_ic_phone.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable-v24\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_smoking.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_smoking.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_back_lifewon.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_back_lifewon.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_baseline_lightbulb_24.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_baseline_lightbulb_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\font_baloo.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\font\\baloo.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_exit.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_activity_admin_page.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\activity_admin_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-v24_round_back_secondary_100.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable-v24\\round_back_secondary_100.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_baseline_phone_iphone.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_baseline_phone_iphone.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_activity_add_pro_tips.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\activity_add_pro_tips.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_bghome.jpg.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\bghome.jpg"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_activity_home_page.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\activity_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\anim_atg.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\anim\\atg.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_wave_bg_header.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_wave_bg_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_activity_add_achievement.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\activity_add_achievement.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_activity_pro_tips.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\activity_pro_tips.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_activity_money_saved.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\activity_money_saved.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_img.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_row.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\row.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_baseline_healing_24.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_baseline_healing_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_activity_leaderboard_recycler.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\activity_leaderboard_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-v24_ic_key.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable-v24\\ic_key.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_activity_achievement_home.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\activity_achievement_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_activity_join_facebook.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\activity_join_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-v24_ic_about.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable-v24\\ic_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-v24_text_size.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable-v24\\text_size.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-v24_right_arrow.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable-v24\\right_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-pngs-31:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-xxxhdpi_ic_death.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-pngs-31:\\drawable-xxxhdpi\\ic_death.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_baseline_help_outline_24.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_baseline_help_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_baseline_book_24.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_baseline_book_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_activity_stop_watch.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\activity_stop_watch.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_activity_get_help.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\activity_get_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_blood.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_blood.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_lung.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_lung.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-v24_round_back_notification.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable-v24\\round_back_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_activity_send_mail.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\activity_send_mail.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_list_row.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-v24_round_back_security.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable-v24\\round_back_security.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-v24_ic_security.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable-v24\\ic_security.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_baseline_star_border_24.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_baseline_star_border_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-v24_ic_back.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable-v24\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-v24_ic_notification.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable-v24\\ic_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\anim_top_animation.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\anim\\top_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-hdpi_ic_death.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-pngs-31:\\drawable-hdpi\\ic_death.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_no_smoking.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_no_smoking.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_money.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_money.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_add_tips.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_add_tips.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_facebook.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-v24_round_black_white10_20.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable-v24\\round_black_white10_20.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_google.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_add_security.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_add_security.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_activity_about_us.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-anydpi-v24_ic_death.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-pngs-31:\\drawable-anydpi-v24\\ic_death.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_baseline_add_task_24.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_baseline_add_task_24.xml"
+    },
+    {
+        "merged": "com.example.stopsmoking.app-merged_res-36:/layout_row.xml.flat",
+        "source": "com.example.stopsmoking.app-main-38:/layout/row.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\anim_bottom_animation.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\anim\\bottom_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_activity_life_won.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\activity_life_won.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-xxhdpi_ic_death.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-pngs-31:\\drawable-xxhdpi\\ic_death.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_baseline_watch_later_24.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_baseline_watch_later_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-xhdpi_ic_death.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-pngs-31:\\drawable-xhdpi\\ic_death.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_activity_stopwatch2.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\activity_stopwatch2.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\anim_btgtwo.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\anim\\btgtwo.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_background3.jpg.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\background3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_activity_admin_login.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\activity_admin_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_bgbtngreen.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\bgbtngreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-v24_ic_email.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable-v24\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-v24_round_back_private_account.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable-v24\\round_back_private_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-v24_ic_profile.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable-v24\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_add_notification.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_add_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_baseline_logout_24.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_baseline_logout_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_ic_baseline_attach_money_24.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\ic_baseline_attach_money_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable_icget.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\drawable\\icget.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\drawable-ldpi_ic_death.png.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-pngs-31:\\drawable-ldpi\\ic_death.png"
+    },
+    {
+        "merged": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-merged_res-36:\\anim_btgone.xml.flat",
+        "source": "C:\\Users\\weiji\\.gradle\\daemon\\7.3.3\\com.example.stopsmoking.app-main-38:\\anim\\btgone.xml"
+    }
+]

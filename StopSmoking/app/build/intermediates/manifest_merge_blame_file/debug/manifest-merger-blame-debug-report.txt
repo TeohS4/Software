@@ -1,0 +1,488 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.stopsmoking"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.SEND_SMS" />
+11-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:7:5-67
+12-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\weiji\.gradle\caches\transforms-3\62f51654750051170c66888be2c03343\transformed\firebase-auth-21.0.5\AndroidManifest.xml:24:5-79
+13-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\weiji\.gradle\caches\transforms-3\62f51654750051170c66888be2c03343\transformed\firebase-auth-21.0.5\AndroidManifest.xml:24:22-76
+14    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+14-->[com.facebook.android:facebook-core:14.1.0] C:\Users\weiji\.gradle\caches\transforms-3\d2b810c9428ee2581ca19f33e3112e18\transformed\facebook-core-14.1.0\AndroidManifest.xml:28:5-79
+14-->[com.facebook.android:facebook-core:14.1.0] C:\Users\weiji\.gradle\caches\transforms-3\d2b810c9428ee2581ca19f33e3112e18\transformed\facebook-core-14.1.0\AndroidManifest.xml:28:22-76
+15    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+15-->[com.android.installreferrer:installreferrer:1.0] C:\Users\weiji\.gradle\caches\transforms-3\44489ceeae30357907983b1ceb8ac851\transformed\installreferrer-1.0\AndroidManifest.xml:9:5-110
+15-->[com.android.installreferrer:installreferrer:1.0] C:\Users\weiji\.gradle\caches\transforms-3\44489ceeae30357907983b1ceb8ac851\transformed\installreferrer-1.0\AndroidManifest.xml:9:22-107
+16
+17    <application
+17-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:9:5-118:19
+18        android:allowBackup="true"
+18-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:10:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.7.0] C:\Users\weiji\.gradle\caches\transforms-3\adb67d3f3a1d59c425bb06f1edd0fa58\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+20        android:dataExtractionRules="@xml/data_extraction_rules"
+20-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:11:9-65
+21        android:debuggable="true"
+22        android:fullBackupContent="@xml/backup_rules"
+22-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:12:9-54
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:13:9-43
+24        android:label="@string/app_name"
+24-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:14:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:15:9-54
+26        android:supportsRtl="true"
+26-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:16:9-35
+27        android:testOnly="true"
+28        android:theme="@style/Theme.StopSmoking" >
+28-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:17:9-49
+29        <activity
+29-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:19:9-21:40
+30            android:name="com.example.stopsmoking.AddProTips"
+30-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:20:13-39
+31            android:exported="false" />
+31-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:21:13-37
+32        <activity
+32-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:22:9-24:40
+33            android:name="com.example.stopsmoking.Achievement_Home"
+33-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:23:13-45
+34            android:exported="false" />
+34-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:24:13-37
+35        <activity
+35-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:25:9-27:40
+36            android:name="com.example.stopsmoking.join_facebook"
+36-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:26:13-42
+37            android:exported="false" />
+37-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:27:13-37
+38        <activity
+38-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:28:9-30:40
+39            android:name="com.example.stopsmoking.leaderboard_recycler"
+39-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:29:13-49
+40            android:exported="false" />
+40-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:30:13-37
+41        <activity
+41-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:31:9-33:40
+42            android:name="com.example.stopsmoking.Add_Achievement"
+42-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:32:13-44
+43            android:exported="false" />
+43-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:33:13-37
+44        <activity
+44-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:34:9-36:40
+45            android:name="com.example.stopsmoking.Chat"
+45-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:35:13-33
+46            android:exported="false" />
+46-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:36:13-37
+47        <activity
+47-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:37:9-39:40
+48            android:name="com.example.stopsmoking.AdminPage"
+48-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:38:13-38
+49            android:exported="false" />
+49-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:39:13-37
+50        <activity
+50-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:40:9-42:40
+51            android:name="com.example.stopsmoking.AdminLogin"
+51-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:41:13-39
+52            android:exported="false" />
+52-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:42:13-37
+53        <activity
+53-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:43:9-45:40
+54            android:name="com.example.stopsmoking.AboutUs"
+54-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:44:13-36
+55            android:exported="false" />
+55-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:45:13-37
+56        <activity
+56-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:46:9-48:40
+57            android:name="com.example.stopsmoking.EditProfile"
+57-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:47:13-40
+58            android:exported="false" />
+58-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:48:13-37
+59        <activity
+59-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:49:9-51:40
+60            android:name="com.example.stopsmoking.GetHelp"
+60-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:50:13-36
+61            android:exported="false" />
+61-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:51:13-37
+62        <activity
+62-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:52:9-54:40
+63            android:name="com.example.stopsmoking.MoneySaved"
+63-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:53:13-39
+64            android:exported="false" />
+64-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:54:13-37
+65        <activity
+65-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:55:9-57:40
+66            android:name="com.example.stopsmoking.Stopwatch2"
+66-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:56:13-39
+67            android:exported="false" />
+67-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:57:13-37
+68        <activity
+68-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:58:9-60:40
+69            android:name="com.example.stopsmoking.ProTips"
+69-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:59:13-36
+70            android:exported="false" />
+70-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:60:13-37
+71        <activity
+71-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:61:9-63:40
+72            android:name="com.example.stopsmoking.LifeWon"
+72-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:62:13-36
+73            android:exported="false" />
+73-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:63:13-37
+74        <activity
+74-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:64:9-66:40
+75            android:name="com.example.stopsmoking.Stopwatch"
+75-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:65:13-38
+76            android:exported="false" />
+76-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:66:13-37
+77        <activity
+77-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:67:9-69:40
+78            android:name="com.example.stopsmoking.Settings"
+78-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:68:13-37
+79            android:exported="false" />
+79-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:69:13-37
+80        <activity
+80-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:70:9-72:40
+81            android:name="com.example.stopsmoking.Dashboard"
+81-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:71:13-38
+82            android:exported="false" />
+82-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:72:13-37
+83        <activity
+83-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:73:9-75:40
+84            android:name="com.example.stopsmoking.SendMail"
+84-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:74:13-37
+85            android:exported="false" />
+85-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:75:13-37
+86        <activity
+86-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:76:9-78:40
+87            android:name="com.example.stopsmoking.Register"
+87-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:77:13-37
+88            android:exported="false" />
+88-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:78:13-37
+89        <activity
+89-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:79:9-81:40
+90            android:name="com.example.stopsmoking.MainActivity"
+90-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:80:13-41
+91            android:exported="false" />
+91-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:81:13-37
+92        <activity
+92-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:82:9-84:40
+93            android:name="com.example.stopsmoking.HomePage"
+93-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:83:13-37
+94            android:exported="false" />
+94-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:84:13-37
+95        <activity
+95-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:85:9-93:20
+96            android:name="com.example.stopsmoking.SplashScreen"
+96-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:86:13-41
+97            android:exported="true" >
+97-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:87:13-36
+98            <intent-filter>
+98-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:88:13-92:29
+99                <action android:name="android.intent.action.MAIN" />
+99-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:89:17-69
+99-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:89:25-66
+100
+101                <category android:name="android.intent.category.LAUNCHER" />
+101-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:91:17-77
+101-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:91:27-74
+102            </intent-filter>
+103        </activity>
+104
+105        <meta-data
+105-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:95:9-97:55
+106            android:name="com.facebook.sdk.ApplicationId"
+106-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:96:13-58
+107            android:value="@string/facebook_app_id" />
+107-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:97:13-52
+108        <meta-data
+108-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:98:9-100:61
+109            android:name="com.facebook.sdk.ClientToken"
+109-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:99:13-56
+110            android:value="@string/facebook_client_token" />
+110-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:100:13-58
+111
+112        <activity
+112-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:102:9-105:48
+113            android:name="com.facebook.FacebookActivity"
+113-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:103:13-57
+114            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+114-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:104:13-96
+115            android:label="@string/app_name"
+115-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:105:13-45
+116            android:theme="@style/com_facebook_activity_theme" />
+116-->[com.facebook.android:facebook-common:14.1.0] C:\Users\weiji\.gradle\caches\transforms-3\8438e7e99726061fcded290f105529f5\transformed\facebook-common-14.1.0\AndroidManifest.xml:33:13-63
+117        <activity
+117-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:106:9-117:20
+118            android:name="com.facebook.CustomTabActivity"
+118-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:107:13-58
+119            android:exported="true" >
+119-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:108:13-36
+120            <intent-filter>
+120-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:109:13-116:29
+121                <action android:name="android.intent.action.VIEW" />
+121-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:110:17-69
+121-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:110:25-66
+122
+123                <category android:name="android.intent.category.DEFAULT" />
+123-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:112:17-76
+123-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:112:27-73
+124                <category android:name="android.intent.category.BROWSABLE" />
+124-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:113:17-78
+124-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:113:27-75
+125
+126                <data android:scheme="@string/fb_login_protocol_scheme" />
+126-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:115:17-75
+126-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:115:23-72
+127            </intent-filter>
+128            <intent-filter>
+128-->[com.facebook.android:facebook-common:14.1.0] C:\Users\weiji\.gradle\caches\transforms-3\8438e7e99726061fcded290f105529f5\transformed\facebook-common-14.1.0\AndroidManifest.xml:39:13-48:29
+129                <action android:name="android.intent.action.VIEW" />
+129-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:110:17-69
+129-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:110:25-66
+130
+131                <category android:name="android.intent.category.DEFAULT" />
+131-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:112:17-76
+131-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:112:27-73
+132                <category android:name="android.intent.category.BROWSABLE" />
+132-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:113:17-78
+132-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:113:27-75
+133
+134                <data
+134-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:115:17-75
+135                    android:host="cct.com.example.stopsmoking"
+136                    android:scheme="fbconnect" />
+136-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:115:23-72
+137            </intent-filter>
+138        </activity>
+139        <activity android:name="com.facebook.CustomTabMainActivity" />
+139-->[com.facebook.android:facebook-common:14.1.0] C:\Users\weiji\.gradle\caches\transforms-3\8438e7e99726061fcded290f105529f5\transformed\facebook-common-14.1.0\AndroidManifest.xml:34:9-71
+139-->[com.facebook.android:facebook-common:14.1.0] C:\Users\weiji\.gradle\caches\transforms-3\8438e7e99726061fcded290f105529f5\transformed\facebook-common-14.1.0\AndroidManifest.xml:34:19-68
+140        <activity
+140-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\weiji\.gradle\caches\transforms-3\62f51654750051170c66888be2c03343\transformed\firebase-auth-21.0.5\AndroidManifest.xml:27:9-44:20
+141            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+141-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\weiji\.gradle\caches\transforms-3\62f51654750051170c66888be2c03343\transformed\firebase-auth-21.0.5\AndroidManifest.xml:28:13-80
+142            android:excludeFromRecents="true"
+142-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\weiji\.gradle\caches\transforms-3\62f51654750051170c66888be2c03343\transformed\firebase-auth-21.0.5\AndroidManifest.xml:29:13-46
+143            android:exported="true"
+143-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\weiji\.gradle\caches\transforms-3\62f51654750051170c66888be2c03343\transformed\firebase-auth-21.0.5\AndroidManifest.xml:30:13-36
+144            android:launchMode="singleTask"
+144-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\weiji\.gradle\caches\transforms-3\62f51654750051170c66888be2c03343\transformed\firebase-auth-21.0.5\AndroidManifest.xml:31:13-44
+145            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+145-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\weiji\.gradle\caches\transforms-3\62f51654750051170c66888be2c03343\transformed\firebase-auth-21.0.5\AndroidManifest.xml:32:13-72
+146            <intent-filter>
+146-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\weiji\.gradle\caches\transforms-3\62f51654750051170c66888be2c03343\transformed\firebase-auth-21.0.5\AndroidManifest.xml:33:13-43:29
+147                <action android:name="android.intent.action.VIEW" />
+147-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:110:17-69
+147-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:110:25-66
+148
+149                <category android:name="android.intent.category.DEFAULT" />
+149-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:112:17-76
+149-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:112:27-73
+150                <category android:name="android.intent.category.BROWSABLE" />
+150-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:113:17-78
+150-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:113:27-75
+151
+152                <data
+152-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:115:17-75
+153                    android:host="firebase.auth"
+154                    android:path="/"
+155                    android:scheme="genericidp" />
+155-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:115:23-72
+156            </intent-filter>
+157        </activity>
+158        <activity
+158-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\weiji\.gradle\caches\transforms-3\62f51654750051170c66888be2c03343\transformed\firebase-auth-21.0.5\AndroidManifest.xml:45:9-62:20
+159            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+159-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\weiji\.gradle\caches\transforms-3\62f51654750051170c66888be2c03343\transformed\firebase-auth-21.0.5\AndroidManifest.xml:46:13-79
+160            android:excludeFromRecents="true"
+160-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\weiji\.gradle\caches\transforms-3\62f51654750051170c66888be2c03343\transformed\firebase-auth-21.0.5\AndroidManifest.xml:47:13-46
+161            android:exported="true"
+161-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\weiji\.gradle\caches\transforms-3\62f51654750051170c66888be2c03343\transformed\firebase-auth-21.0.5\AndroidManifest.xml:48:13-36
+162            android:launchMode="singleTask"
+162-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\weiji\.gradle\caches\transforms-3\62f51654750051170c66888be2c03343\transformed\firebase-auth-21.0.5\AndroidManifest.xml:49:13-44
+163            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+163-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\weiji\.gradle\caches\transforms-3\62f51654750051170c66888be2c03343\transformed\firebase-auth-21.0.5\AndroidManifest.xml:50:13-72
+164            <intent-filter>
+164-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\weiji\.gradle\caches\transforms-3\62f51654750051170c66888be2c03343\transformed\firebase-auth-21.0.5\AndroidManifest.xml:51:13-61:29
+165                <action android:name="android.intent.action.VIEW" />
+165-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:110:17-69
+165-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:110:25-66
+166
+167                <category android:name="android.intent.category.DEFAULT" />
+167-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:112:17-76
+167-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:112:27-73
+168                <category android:name="android.intent.category.BROWSABLE" />
+168-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:113:17-78
+168-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:113:27-75
+169
+170                <data
+170-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:115:17-75
+171                    android:host="firebase.auth"
+172                    android:path="/"
+173                    android:scheme="recaptcha" />
+173-->C:\Users\weiji\AndroidStudioProjects\StopSmoking\app\src\main\AndroidManifest.xml:115:23-72
+174            </intent-filter>
+175        </activity>
+176
+177        <service
+177-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\weiji\.gradle\caches\transforms-3\62f51654750051170c66888be2c03343\transformed\firebase-auth-21.0.5\AndroidManifest.xml:64:9-70:19
+178            android:name="com.google.firebase.components.ComponentDiscoveryService"
+178-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\weiji\.gradle\caches\transforms-3\62f51654750051170c66888be2c03343\transformed\firebase-auth-21.0.5\AndroidManifest.xml:65:13-84
+179            android:directBootAware="true"
+179-->[com.google.firebase:firebase-common:20.1.1] C:\Users\weiji\.gradle\caches\transforms-3\7a2411892a008c15858058ff7040899d\transformed\firebase-common-20.1.1\AndroidManifest.xml:35:13-43
+180            android:exported="false" >
+180-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\weiji\.gradle\caches\transforms-3\62f51654750051170c66888be2c03343\transformed\firebase-auth-21.0.5\AndroidManifest.xml:66:13-37
+181            <meta-data
+181-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\weiji\.gradle\caches\transforms-3\62f51654750051170c66888be2c03343\transformed\firebase-auth-21.0.5\AndroidManifest.xml:67:13-69:85
+182                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+182-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\weiji\.gradle\caches\transforms-3\62f51654750051170c66888be2c03343\transformed\firebase-auth-21.0.5\AndroidManifest.xml:68:17-109
+183                android:value="com.google.firebase.components.ComponentRegistrar" />
+183-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\weiji\.gradle\caches\transforms-3\62f51654750051170c66888be2c03343\transformed\firebase-auth-21.0.5\AndroidManifest.xml:69:17-82
+184            <meta-data
+184-->[com.google.firebase:firebase-database:20.0.5] C:\Users\weiji\.gradle\caches\transforms-3\c4b68b2bbd3d44b52a9681415fe28cee\transformed\firebase-database-20.0.5\AndroidManifest.xml:32:13-34:85
+185                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+185-->[com.google.firebase:firebase-database:20.0.5] C:\Users\weiji\.gradle\caches\transforms-3\c4b68b2bbd3d44b52a9681415fe28cee\transformed\firebase-database-20.0.5\AndroidManifest.xml:33:17-109
+186                android:value="com.google.firebase.components.ComponentRegistrar" />
+186-->[com.google.firebase:firebase-database:20.0.5] C:\Users\weiji\.gradle\caches\transforms-3\c4b68b2bbd3d44b52a9681415fe28cee\transformed\firebase-database-20.0.5\AndroidManifest.xml:34:17-82
+187        </service>
+188
+189        <activity
+189-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\weiji\.gradle\caches\transforms-3\dbc9245f8842e77c6f81665aebec08d1\transformed\play-services-auth-20.2.0\AndroidManifest.xml:23:9-27:75
+190            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+190-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\weiji\.gradle\caches\transforms-3\dbc9245f8842e77c6f81665aebec08d1\transformed\play-services-auth-20.2.0\AndroidManifest.xml:24:13-93
+191            android:excludeFromRecents="true"
+191-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\weiji\.gradle\caches\transforms-3\dbc9245f8842e77c6f81665aebec08d1\transformed\play-services-auth-20.2.0\AndroidManifest.xml:25:13-46
+192            android:exported="false"
+192-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\weiji\.gradle\caches\transforms-3\dbc9245f8842e77c6f81665aebec08d1\transformed\play-services-auth-20.2.0\AndroidManifest.xml:26:13-37
+193            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+193-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\weiji\.gradle\caches\transforms-3\dbc9245f8842e77c6f81665aebec08d1\transformed\play-services-auth-20.2.0\AndroidManifest.xml:27:13-72
+194        <!--
+195            Service handling Google Sign-In user revocation. For apps that do not integrate with
+196            Google Sign-In, this service will never be started.
+197        -->
+198        <service
+198-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\weiji\.gradle\caches\transforms-3\dbc9245f8842e77c6f81665aebec08d1\transformed\play-services-auth-20.2.0\AndroidManifest.xml:33:9-37:51
+199            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+199-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\weiji\.gradle\caches\transforms-3\dbc9245f8842e77c6f81665aebec08d1\transformed\play-services-auth-20.2.0\AndroidManifest.xml:34:13-89
+200            android:exported="true"
+200-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\weiji\.gradle\caches\transforms-3\dbc9245f8842e77c6f81665aebec08d1\transformed\play-services-auth-20.2.0\AndroidManifest.xml:35:13-36
+201            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+201-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\weiji\.gradle\caches\transforms-3\dbc9245f8842e77c6f81665aebec08d1\transformed\play-services-auth-20.2.0\AndroidManifest.xml:36:13-107
+202            android:visibleToInstantApps="true" />
+202-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\weiji\.gradle\caches\transforms-3\dbc9245f8842e77c6f81665aebec08d1\transformed\play-services-auth-20.2.0\AndroidManifest.xml:37:13-48
+203
+204        <provider
+204-->[com.squareup.picasso:picasso:2.8] C:\Users\weiji\.gradle\caches\transforms-3\471aca1faca45ed524150f7c58bf053f\transformed\picasso-2.8\AndroidManifest.xml:8:9-11:40
+205            android:name="com.squareup.picasso.PicassoProvider"
+205-->[com.squareup.picasso:picasso:2.8] C:\Users\weiji\.gradle\caches\transforms-3\471aca1faca45ed524150f7c58bf053f\transformed\picasso-2.8\AndroidManifest.xml:9:13-64
+206            android:authorities="com.example.stopsmoking.com.squareup.picasso"
+206-->[com.squareup.picasso:picasso:2.8] C:\Users\weiji\.gradle\caches\transforms-3\471aca1faca45ed524150f7c58bf053f\transformed\picasso-2.8\AndroidManifest.xml:10:13-72
+207            android:exported="false" />
+207-->[com.squareup.picasso:picasso:2.8] C:\Users\weiji\.gradle\caches\transforms-3\471aca1faca45ed524150f7c58bf053f\transformed\picasso-2.8\AndroidManifest.xml:11:13-37
+208        <provider
+208-->[com.google.firebase:firebase-common:20.1.1] C:\Users\weiji\.gradle\caches\transforms-3\7a2411892a008c15858058ff7040899d\transformed\firebase-common-20.1.1\AndroidManifest.xml:26:9-31:39
+209            android:name="com.google.firebase.provider.FirebaseInitProvider"
+209-->[com.google.firebase:firebase-common:20.1.1] C:\Users\weiji\.gradle\caches\transforms-3\7a2411892a008c15858058ff7040899d\transformed\firebase-common-20.1.1\AndroidManifest.xml:27:13-77
+210            android:authorities="com.example.stopsmoking.firebaseinitprovider"
+210-->[com.google.firebase:firebase-common:20.1.1] C:\Users\weiji\.gradle\caches\transforms-3\7a2411892a008c15858058ff7040899d\transformed\firebase-common-20.1.1\AndroidManifest.xml:28:13-72
+211            android:directBootAware="true"
+211-->[com.google.firebase:firebase-common:20.1.1] C:\Users\weiji\.gradle\caches\transforms-3\7a2411892a008c15858058ff7040899d\transformed\firebase-common-20.1.1\AndroidManifest.xml:29:13-43
+212            android:exported="false"
+212-->[com.google.firebase:firebase-common:20.1.1] C:\Users\weiji\.gradle\caches\transforms-3\7a2411892a008c15858058ff7040899d\transformed\firebase-common-20.1.1\AndroidManifest.xml:30:13-37
+213            android:initOrder="100" />
+213-->[com.google.firebase:firebase-common:20.1.1] C:\Users\weiji\.gradle\caches\transforms-3\7a2411892a008c15858058ff7040899d\transformed\firebase-common-20.1.1\AndroidManifest.xml:31:13-36
+214
+215        <activity
+215-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\weiji\.gradle\caches\transforms-3\644af67c52680b94e2d9e190fb09a5e6\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+216            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+216-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\weiji\.gradle\caches\transforms-3\644af67c52680b94e2d9e190fb09a5e6\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+217            android:exported="false"
+217-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\weiji\.gradle\caches\transforms-3\644af67c52680b94e2d9e190fb09a5e6\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+218            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+218-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\weiji\.gradle\caches\transforms-3\644af67c52680b94e2d9e190fb09a5e6\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+219
+220        <meta-data
+220-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\weiji\.gradle\caches\transforms-3\c2b1cd055fc3281e0d6b1bdb85cbead0\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+221            android:name="com.google.android.gms.version"
+221-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\weiji\.gradle\caches\transforms-3\c2b1cd055fc3281e0d6b1bdb85cbead0\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+222            android:value="@integer/google_play_services_version" />
+222-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\weiji\.gradle\caches\transforms-3\c2b1cd055fc3281e0d6b1bdb85cbead0\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+223
+224        <provider
+224-->[androidx.emoji2:emoji2:1.0.0] C:\Users\weiji\.gradle\caches\transforms-3\5a32ba0271b231dc6b1e36346dbe3ce9\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+225            android:name="androidx.startup.InitializationProvider"
+225-->[androidx.emoji2:emoji2:1.0.0] C:\Users\weiji\.gradle\caches\transforms-3\5a32ba0271b231dc6b1e36346dbe3ce9\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+226            android:authorities="com.example.stopsmoking.androidx-startup"
+226-->[androidx.emoji2:emoji2:1.0.0] C:\Users\weiji\.gradle\caches\transforms-3\5a32ba0271b231dc6b1e36346dbe3ce9\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+227            android:exported="false" >
+227-->[androidx.emoji2:emoji2:1.0.0] C:\Users\weiji\.gradle\caches\transforms-3\5a32ba0271b231dc6b1e36346dbe3ce9\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+228            <meta-data
+228-->[androidx.emoji2:emoji2:1.0.0] C:\Users\weiji\.gradle\caches\transforms-3\5a32ba0271b231dc6b1e36346dbe3ce9\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+229                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+229-->[androidx.emoji2:emoji2:1.0.0] C:\Users\weiji\.gradle\caches\transforms-3\5a32ba0271b231dc6b1e36346dbe3ce9\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+230                android:value="androidx.startup" />
+230-->[androidx.emoji2:emoji2:1.0.0] C:\Users\weiji\.gradle\caches\transforms-3\5a32ba0271b231dc6b1e36346dbe3ce9\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+231            <meta-data
+231-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\weiji\.gradle\caches\transforms-3\6e3d892c6e3ede2d931fa671c008ffda\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+232                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+232-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\weiji\.gradle\caches\transforms-3\6e3d892c6e3ede2d931fa671c008ffda\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+233                android:value="androidx.startup" />
+233-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\weiji\.gradle\caches\transforms-3\6e3d892c6e3ede2d931fa671c008ffda\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+234        </provider>
+235        <!--
+236         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+237         with the application context. This config is merged in with the host app's manifest,
+238         but there can only be one provider with the same authority activated at any given
+239         point; so if the end user has two or more different apps that use Facebook SDK, only the
+240         first one will be able to use the provider. To work around this problem, we use the
+241         following placeholder in the authority to identify each host application as if it was
+242         a completely different provider.
+243        -->
+244        <provider
+244-->[com.facebook.android:facebook-core:14.1.0] C:\Users\weiji\.gradle\caches\transforms-3\d2b810c9428ee2581ca19f33e3112e18\transformed\facebook-core-14.1.0\AndroidManifest.xml:41:9-44:40
+245            android:name="com.facebook.internal.FacebookInitProvider"
+245-->[com.facebook.android:facebook-core:14.1.0] C:\Users\weiji\.gradle\caches\transforms-3\d2b810c9428ee2581ca19f33e3112e18\transformed\facebook-core-14.1.0\AndroidManifest.xml:42:13-70
+246            android:authorities="com.example.stopsmoking.FacebookInitProvider"
+246-->[com.facebook.android:facebook-core:14.1.0] C:\Users\weiji\.gradle\caches\transforms-3\d2b810c9428ee2581ca19f33e3112e18\transformed\facebook-core-14.1.0\AndroidManifest.xml:43:13-72
+247            android:exported="false" />
+247-->[com.facebook.android:facebook-core:14.1.0] C:\Users\weiji\.gradle\caches\transforms-3\d2b810c9428ee2581ca19f33e3112e18\transformed\facebook-core-14.1.0\AndroidManifest.xml:44:13-37
+248
+249        <receiver
+249-->[com.facebook.android:facebook-core:14.1.0] C:\Users\weiji\.gradle\caches\transforms-3\d2b810c9428ee2581ca19f33e3112e18\transformed\facebook-core-14.1.0\AndroidManifest.xml:46:9-52:20
+250            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+250-->[com.facebook.android:facebook-core:14.1.0] C:\Users\weiji\.gradle\caches\transforms-3\d2b810c9428ee2581ca19f33e3112e18\transformed\facebook-core-14.1.0\AndroidManifest.xml:47:13-86
+251            android:exported="false" >
+251-->[com.facebook.android:facebook-core:14.1.0] C:\Users\weiji\.gradle\caches\transforms-3\d2b810c9428ee2581ca19f33e3112e18\transformed\facebook-core-14.1.0\AndroidManifest.xml:48:13-37
+252            <intent-filter>
+252-->[com.facebook.android:facebook-core:14.1.0] C:\Users\weiji\.gradle\caches\transforms-3\d2b810c9428ee2581ca19f33e3112e18\transformed\facebook-core-14.1.0\AndroidManifest.xml:49:13-51:29
+253                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+253-->[com.facebook.android:facebook-core:14.1.0] C:\Users\weiji\.gradle\caches\transforms-3\d2b810c9428ee2581ca19f33e3112e18\transformed\facebook-core-14.1.0\AndroidManifest.xml:50:17-95
+253-->[com.facebook.android:facebook-core:14.1.0] C:\Users\weiji\.gradle\caches\transforms-3\d2b810c9428ee2581ca19f33e3112e18\transformed\facebook-core-14.1.0\AndroidManifest.xml:50:25-92
+254            </intent-filter>
+255        </receiver>
+256        <receiver
+256-->[com.facebook.android:facebook-core:14.1.0] C:\Users\weiji\.gradle\caches\transforms-3\d2b810c9428ee2581ca19f33e3112e18\transformed\facebook-core-14.1.0\AndroidManifest.xml:53:9-59:20
+257            android:name="com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver"
+257-->[com.facebook.android:facebook-core:14.1.0] C:\Users\weiji\.gradle\caches\transforms-3\d2b810c9428ee2581ca19f33e3112e18\transformed\facebook-core-14.1.0\AndroidManifest.xml:54:13-118
+258            android:exported="false" >
+258-->[com.facebook.android:facebook-core:14.1.0] C:\Users\weiji\.gradle\caches\transforms-3\d2b810c9428ee2581ca19f33e3112e18\transformed\facebook-core-14.1.0\AndroidManifest.xml:55:13-37
+259            <intent-filter>
+259-->[com.facebook.android:facebook-core:14.1.0] C:\Users\weiji\.gradle\caches\transforms-3\d2b810c9428ee2581ca19f33e3112e18\transformed\facebook-core-14.1.0\AndroidManifest.xml:56:13-58:29
+260                <action android:name="com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED" />
+260-->[com.facebook.android:facebook-core:14.1.0] C:\Users\weiji\.gradle\caches\transforms-3\d2b810c9428ee2581ca19f33e3112e18\transformed\facebook-core-14.1.0\AndroidManifest.xml:57:17-103
+260-->[com.facebook.android:facebook-core:14.1.0] C:\Users\weiji\.gradle\caches\transforms-3\d2b810c9428ee2581ca19f33e3112e18\transformed\facebook-core-14.1.0\AndroidManifest.xml:57:25-100
+261            </intent-filter>
+262        </receiver>
+263    </application>
+264
+265</manifest>
