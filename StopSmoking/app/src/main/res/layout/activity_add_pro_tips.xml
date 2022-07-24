@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddProTips"
+    android:background="#FF9800">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Add a Tips"
+        android:textSize="30dp"
+        android:id="@+id/tips"
+        android:layout_marginBottom="20dp" />
+
+    <ImageView
+        android:id="@+id/bulb"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/ic_baseline_tips_and_updates"
+        android:layout_below="@+id/tips"
+        android:layout_centerInParent="true"/>
+
+    <EditText
+        android:id="@+id/tipsTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/bulb"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:gravity="center"
+        android:hint="Please Enter Tips Title Here" />
+
+    <EditText
+        android:id="@+id/tipsDes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tipsTitle"
+        android:hint="Enter Tips Description here"
+        android:gravity="center"/>
+
+    <Button
+        android:id="@+id/addTip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tipsDes"
+        android:layout_marginTop="50dp"
+        android:text="Add Tips"
+        android:backgroundTint="#2196F3"/>
+
+
+</RelativeLayout>
